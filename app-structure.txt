@@ -1,0 +1,14 @@
+Folder PATH listing
+Volume serial number is A2EB-02C1
+C:\FAISAL-10\FAISAL-10\SRC\APP
+¦   favicon.ico
+¦   globals.css
+¦   layout.tsx
+¦   page.tsx
+¦   
++---about
+¦       page.tsx
+¦       
++---contact
+        page.tsx
+        
